@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "home_app",
+			"path": ".."
+		},
+		{
+			"name": "Git",
+			"path": "../Git"
+		}
+	],
+	"settings": {}
+}
